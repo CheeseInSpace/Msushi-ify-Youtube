@@ -14,16 +14,13 @@ youtuber **MSushi** to every thumbnail.
 
 The extension is awaiting review on FireFox, While Chrome wants me to pay 5$, which isn't worth paying for something made in a couple of minutes. 
 
-You can run `build.bat` in order to get 2 zip files, which obe you can add to Chrome based browsers and other to FireFox
+You can run `build.bat` in order to get 2 zip files, which one you can add to Chrome based browsers and other to FireFox
 
 ## Notes
 
 - This extension should be compatible with any Firefox / Chromium based browser.
 - This extension was inspired by **[Unnecessary Inventions][UI YouTube]** and his **[Website][UI Website]**.
 - This extension is unofficial and not affiliated with MSushi or YouTube.
-
-## Making your own
-
 
 <!----------------------------------------------------------------------------->
 
