@@ -14,6 +14,10 @@ youtuber **MSushi** to every thumbnail.
 
 The extension is awaiting review on FireFox, While Chrome wants me to pay 5$, which isn't worth paying for something made in a couple of minutes. 
 
+In order to add to Chromium based browsers, you'll need to add them using Developer mode. <BR>
+For FireFox, See **[This][FireFox Unsigned Addons]**
+
+
 ## Notes
 
 - This extension should be compatible with any Firefox / Chromium based browser.
@@ -31,3 +35,5 @@ The extension is awaiting review on FireFox, While Chrome wants me to pay 5$, wh
 
 [UI YouTube]: http://www.youtube.com/@UnnecessaryInventions
 [UI Website]: http://www.mrbeastify.com/
+
+[FireFox Unsigned Addons]: https://support.mozilla.org/en-US/kb/add-on-signing-in-firefox?as=u&utm_source=inproduct#w_what-are-my-options-if-i-want-to-use-an-unsigned-add-on-advanced-users
