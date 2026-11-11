@@ -14,8 +14,6 @@ youtuber **MSushi** to every thumbnail.
 
 The extension is awaiting review on FireFox, While Chrome wants me to pay 5$, which isn't worth paying for something made in a couple of minutes. 
 
-You can run `build.bat` in order to get 2 zip files, which one you can add to Chrome based browsers and other to FireFox
-
 ## Notes
 
 - This extension should be compatible with any Firefox / Chromium based browser.
